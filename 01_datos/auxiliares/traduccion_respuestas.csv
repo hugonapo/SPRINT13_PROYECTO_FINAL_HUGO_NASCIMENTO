@@ -1,0 +1,111 @@
+respuesta_en,respuesta_es
+Yes,Sí
+No,No
+Maybe,Quizá
+I don't know,No lo sé
+Don't know,No lo sé
+Don't Know,No lo sé
+Not sure,No estoy seguro/a
+Unsure,No estoy seguro/a
+I am not sure,No estoy seguro/a
+I'm not sure,No estoy seguro/a
+Possibly,Posiblemente
+Some of them,Algunos
+None of them,Ninguno
+"Yes, all of them","Sí, todos"
+Not applicable to me,No aplica
+Not applicable to me (I do not have a mental illness),No aplica (no tengo una enfermedad mental)
+Not eligible for coverage / NA,Sin cobertura / no aplica
+I prefer not to answer,Prefiero no responder
+Other,Otro
+More than one of the above,Más de una de las anteriores
+Neutral,Neutral
+No change,Sin cambios
+Positively,Positivamente
+Negatively,Negativamente
+Often,A menudo
+Sometimes,A veces
+Rarely,Rara vez
+Never,Nunca
+Always,Siempre
+"Yes, always","Sí, siempre"
+"Sometimes, if it comes up","A veces, si sale el tema"
+Very easy,Muy fácil
+Somewhat easy,Algo fácil
+Neither easy nor difficult,Ni fácil ni difícil
+Somewhat difficult,Algo difícil
+Difficult,Difícil
+Very difficult,Muy difícil
+Maybe/Not sure,Quizá / no estoy seguro/a
+"Yes, I observed","Sí, lo observé"
+"Yes, I experienced","Sí, lo viví"
+I've always been self-employed,Siempre he sido autónomo/a
+"Yes, I think it would","Sí, creo que la dañaría"
+"No, I don't think it would","No, creo que no"
+"Yes, it has","Sí, ya la ha dañado"
+"No, it has not","No, no la ha dañado"
+"Yes, I think they would","Sí, creo que sí"
+"No, I don't think they would","No, creo que no"
+"Yes, they do",Sí
+"No, they do not",No
+None did,Ninguno
+Some did,Algunos
+"Yes, they all did","Sí, todos"
+"No, none did","No, ninguno"
+Some of my previous employers,Algunos de mis empleadores anteriores
+"No, at none of my previous employers","No, en ninguno"
+"Yes, at all of my previous employers","Sí, en todos"
+Some of my previous supervisors,Algunos de mis supervisores anteriores
+"No, none of my previous supervisors","No, ninguno"
+"Yes, all of my previous supervisors","Sí, todos"
+I was aware of some,Conocía algunas
+"Yes, I was aware of all of them","Sí, las conocía todas"
+"No, I only became aware later","No, me enteré después"
+N/A (not currently aware),No aplica (no las conozco)
+N/A (was not aware),No aplica (no las conocía)
+N/A (none offered),No aplica (no se ofrecían)
+I know some,Conozco algunos
+"Yes, I know several","Sí, conozco varios"
+"No, I don't know any","No, no conozco ninguno"
+Very open,Muy abierto/a
+Somewhat open,Algo abierto/a
+Somewhat not open,Poco abierto/a
+Not open at all,Nada abierto/a
+Physical health,Salud física
+Mental health,Salud mental
+Same level of comfort for each,Igual de cómodo/a con ambas
+"No, because it would impact me negatively","No, porque me perjudicaría"
+"No, because it doesn't matter","No, porque no importa"
+More than 1000,Más de 1000
+1-25%,1-25 %
+26-50%,26-50 %
+51-75%,51-75 %
+76-100%,76-100 %
+Back-end Developer,Desarrollador/a back-end
+Front-end Developer,Desarrollador/a front-end
+DevOps/SysAdmin,DevOps / administración de sistemas
+Supervisor/Team Lead,Supervisor/a / jefe/a de equipo
+Support,Soporte
+One-person shop,Empresa unipersonal
+Designer,Diseño
+Executive Leadership,Dirección
+Dev Evangelist/Advocate,Developer advocate
+Sales,Ventas
+HR,Recursos humanos
+"Mood Disorder (Depression, Bipolar Disorder, etc)","Trastorno del estado de ánimo (depresión, bipolar…)"
+"Anxiety Disorder (Generalized, Social, Phobia, etc)","Trastorno de ansiedad (generalizada, social, fobias…)"
+Attention Deficit Hyperactivity Disorder,TDAH
+Post-traumatic Stress Disorder,Trastorno de estrés postraumático
+Stress Response Syndromes,Síndromes de respuesta al estrés
+"Personality Disorder (Borderline, Antisocial, Paranoid, etc)","Trastorno de la personalidad (límite, antisocial, paranoide…)"
+Obsessive-Compulsive Disorder,Trastorno obsesivo-compulsivo
+Addictive Disorder,Trastorno adictivo
+Substance Use Disorder,Trastorno por consumo de sustancias
+"Eating Disorder (Anorexia, Bulimia, etc)","Trastorno de la conducta alimentaria (anorexia, bulimia…)"
+Dissociative Disorder,Trastorno disociativo
+"Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",Trastorno psicótico (esquizofrenia…)
+White,Blanca
+Asian,Asiática
+Black or African American,Negra o afroamericana
+American Indian or Alaska Native,Indígena americana o nativa de Alaska
+Hispanic,Hispana

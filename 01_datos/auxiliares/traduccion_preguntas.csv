@@ -1,0 +1,106 @@
+pregunta_id,pregunta_en,pregunta_es
+1,What is your age?,¿Qué edad tienes?
+2,What is your gender?,¿Cuál es tu género?
+3,What country do you live in?,¿En qué país vives?
+4,"If you live in the United States, which state or territory do you live in?","Si vives en Estados Unidos, ¿en qué estado o territorio?"
+5,Are you self-employed?,¿Eres autónomo/a?
+6,Do you have a family history of mental illness?,¿Tienes antecedentes familiares de enfermedad mental?
+7,Have you ever sought treatment for a mental health disorder from a mental health professional?,¿Has buscado alguna vez tratamiento de un profesional de salud mental?
+8,How many employees does your company or organization have?,¿Cuántos empleados tiene tu empresa u organización?
+9,Is your employer primarily a tech company/organization?,¿Tu empleador es principalmente una empresa tecnológica?
+10,Does your employer provide mental health benefits as part of healthcare coverage?,¿Tu empleador ofrece prestaciones de salud mental dentro de la cobertura sanitaria?
+11,Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources provided by your employer?,¿Se protege tu anonimato si usas los recursos de salud mental o de adicciones que ofrece tu empleador?
+12,Would you bring up a mental health issue with a potential employer in an interview?,¿Mencionarías un problema de salud mental a un posible empleador en una entrevista?
+13,Is your primary role within your company related to tech/IT?,¿Tu puesto principal en la empresa está relacionado con la tecnología/IT?
+14,Do you know the options for mental health care available under your employer-provided health coverage?,¿Conoces las opciones de atención a la salud mental que incluye la cobertura de tu empleador?
+15,"Has your employer ever formally discussed mental health (for example, as part of a wellness campaign or other official communication)?","¿Tu empleador ha hablado formalmente alguna vez de salud mental (por ejemplo, en una campaña de bienestar)?"
+16,Does your employer offer resources to learn more about mental health disorders and options for seeking help?,¿Tu empleador ofrece recursos para saber más sobre los trastornos de salud mental y cómo pedir ayuda?
+17,"If a mental health issue prompted you to request a medical leave from work, how easy or difficult would it be to ask for that leave?","Si un problema de salud mental te llevara a pedir una baja médica, ¿sería fácil o difícil pedirla?"
+18,Would you feel comfortable discussing a mental health issue with your coworkers?,¿Te sentirías cómodo/a hablando de un problema de salud mental con tus compañeros?
+19,Would you feel comfortable discussing a mental health issue with your direct supervisor(s)?,¿Te sentirías cómodo/a hablando de un problema de salud mental con tu supervisor directo?
+20,Do you have medical coverage (private insurance or state-provided) that includes treatment of mental health disorders?,¿Tienes cobertura médica (privada o pública) que incluya el tratamiento de trastornos de salud mental?
+21,Do you know local or online resources to seek help for a mental health issue?,¿Conoces recursos locales u online para pedir ayuda por un problema de salud mental?
+22,Do you have previous employers?,¿Has tenido empleadores anteriores?
+23,Have your previous employers provided mental health benefits?,¿Tus empleadores anteriores ofrecían prestaciones de salud mental?
+24,Were you aware of the options for mental health care provided by your previous employers?,¿Conocías las opciones de atención a la salud mental que ofrecían tus empleadores anteriores?
+25,Did your previous employers ever formally discuss mental health (as part of a wellness campaign or other official communication)?,¿Tus empleadores anteriores hablaron formalmente alguna vez de salud mental?
+26,Did your previous employers provide resources to learn more about mental health disorders and how to seek help?,¿Tus empleadores anteriores ofrecían recursos para saber más sobre los trastornos de salud mental y cómo pedir ayuda?
+27,Was your anonymity protected if you chose to take advantage of mental health or substance abuse treatment resources with previous employers?,¿Se protegía tu anonimato al usar los recursos de salud mental o de adicciones de tus empleadores anteriores?
+28,Would you have been willing to discuss your mental health with your direct supervisor(s)?,¿Habrías estado dispuesto/a a hablar de tu salud mental con tus supervisores anteriores?
+29,Would you be willing to bring up a physical health issue with a potential employer in an interview?,¿Mencionarías un problema de salud física a un posible empleador en una entrevista?
+30,How willing would you be to share with friends and family that you have a mental illness?,¿Hasta qué punto estarías dispuesto/a a contar a amigos y familia que tienes una enfermedad mental?
+31,Have your observations of how another individual who discussed a mental health disorder made you less likely to reveal a mental health issue yourself in your current workplace?,¿Ver cómo trataron a otra persona que habló de su trastorno mental te ha hecho menos propenso/a a contar el tuyo en tu trabajo actual?
+32,Have you had a mental health disorder in the past?,¿Has tenido un trastorno de salud mental en el pasado?
+33,Do you currently have a mental health disorder?,¿Tienes actualmente un trastorno de salud mental?
+34,Have you ever been diagnosed with a mental health disorder?,¿Te han diagnosticado alguna vez un trastorno de salud mental?
+48,"If you have a mental health disorder, how often do you feel that it interferes with your work when being treated effectively?","Si tienes un trastorno de salud mental, ¿con qué frecuencia interfiere en tu trabajo cuando está bien tratado?"
+49,"If you have a mental health disorder, how often do you feel that it interferes with your work when not being treated effectively (i.e., when you are experiencing symptoms)?","Si tienes un trastorno de salud mental, ¿con qué frecuencia interfiere en tu trabajo cuando no está bien tratado (cuando tienes síntomas)?"
+50,What country do you work in?,¿En qué país trabajas?
+51,What US state or territory do you work in?,¿En qué estado o territorio de Estados Unidos trabajas?
+52,"If you have been diagnosed or treated for a mental health disorder, do you ever reveal this to clients or business contacts?","Si te han diagnosticado o tratado un trastorno de salud mental, ¿lo cuentas a clientes o contactos profesionales?"
+53,"If you have been diagnosed or treated for a mental health disorder, do you ever reveal this to coworkers or employees?","Si te han diagnosticado o tratado un trastorno de salud mental, ¿lo cuentas a compañeros o empleados?"
+54,Do you believe your productivity is ever affected by a mental health issue?,¿Crees que tu productividad se ve afectada alguna vez por un problema de salud mental?
+55,"If yes, what percentage of your work time (time performing primary or secondary job functions) is affected by a mental health issue?","Si es así, ¿qué porcentaje de tu tiempo de trabajo se ve afectado por un problema de salud mental?"
+56,Have you observed or experienced an unsupportive or badly handled response to a mental health issue in your current or previous workplace?,¿Has observado o vivido una respuesta poco comprensiva o mal gestionada ante un problema de salud mental en tu trabajo actual o anterior?
+57,Would you feel more comfortable talking to your coworkers about your physical health or your mental health?,¿Te sentirías más cómodo/a hablando con tus compañeros de tu salud física o de tu salud mental?
+58,Have you ever discussed your mental health with your employer?,¿Has hablado alguna vez de tu salud mental con tu empleador?
+59,"Describe the conversation you had with your employer about your mental health, including their reactions and what actions were taken to address your mental health issue/questions.",Describe la conversación que tuviste con tu empleador sobre tu salud mental: su reacción y qué medidas se tomaron.
+60,Have you ever discussed your mental health with coworkers?,¿Has hablado alguna vez de tu salud mental con tus compañeros?
+61,Describe the conversation with coworkers you had about your mental health including their reactions.,"Describe la conversación que tuviste con tus compañeros sobre tu salud mental, incluida su reacción."
+62,Have you ever had a coworker discuss their or another coworker's mental health with you?,¿Algún compañero te ha hablado alguna vez de su salud mental o de la de otro compañero?
+63,Describe the conversation your coworker had with you about their mental health (please do not use names).,Describe la conversación que un compañero tuvo contigo sobre su salud mental (sin usar nombres).
+64,"Overall, how much importance does your employer place on physical health?","En general, ¿cuánta importancia da tu empleador a la salud física?"
+65,"Overall, how much importance does your employer place on mental health?","En general, ¿cuánta importancia da tu empleador a la salud mental?"
+66,"If you have revealed a mental health disorder to a client or business contact, how has this affected you or the relationship?","Si has contado a un cliente o contacto profesional que tienes un trastorno de salud mental, ¿cómo te ha afectado a ti o a la relación?"
+67,"If you have revealed a mental health disorder to a coworker or employee, how has this impacted you or the relationship?","Si has contado a un compañero o empleado que tienes un trastorno de salud mental, ¿cómo te ha afectado a ti o a la relación?"
+68,Was your employer primarily a tech company/organization?,¿Tu empleador anterior era principalmente una empresa tecnológica?
+69,Would you have felt more comfortable talking to your previous employer about your physical health or your mental health?,¿Te habrías sentido más cómodo/a hablando con tu empleador anterior de tu salud física o de tu salud mental?
+70,Did you ever discuss your mental health with your previous employer?,¿Hablaste alguna vez de tu salud mental con tu empleador anterior?
+71,"Describe the conversation you had with your previous employer about your mental health, including their reactions and actions taken to address your mental health issue/questions.",Describe la conversación que tuviste con tu empleador anterior sobre tu salud mental: su reacción y qué medidas se tomaron.
+72,Did you ever discuss your mental health with a previous coworker(s)?,¿Hablaste alguna vez de tu salud mental con compañeros anteriores?
+73,Describe the conversation you had with your previous coworkers about your mental health including their reactions.,"Describe la conversación que tuviste con tus compañeros anteriores sobre tu salud mental, incluida su reacción."
+74,Did you ever have a previous coworker discuss their or another coworker's mental health with you?,¿Algún compañero anterior te habló alguna vez de su salud mental o de la de otro compañero?
+75,Describe the conversation your coworker had with you about their mental health (please do not use names)..1,Describe la conversación que un compañero anterior tuvo contigo sobre su salud mental (sin usar nombres).
+76,"Overall, how much importance did your previous employer place on physical health?","En general, ¿cuánta importancia daba tu empleador anterior a la salud física?"
+77,"Overall, how much importance did your previous employer place on mental health?","En general, ¿cuánta importancia daba tu empleador anterior a la salud mental?"
+78,Are you openly identified at work as a person with a mental health issue?,¿En tu trabajo se te identifica abiertamente como una persona con un problema de salud mental?
+79,Has being identified as a person with a mental health issue affected your career?,¿Que se te identifique como persona con un problema de salud mental ha afectado a tu carrera?
+80,How has it affected your career?,¿Cómo ha afectado a tu carrera?
+81,"If they knew you suffered from a mental health disorder, how do you think that your team members/co-workers would react?","Si supieran que tienes un trastorno de salud mental, ¿cómo crees que reaccionarían tus compañeros de equipo?"
+82,Describe the circumstances of the badly handled or unsupportive response.,Describe las circunstancias de la respuesta poco comprensiva o mal gestionada.
+83,Have you observed or experienced supportive or well handled response to a mental health issue in your current or previous workplace?,¿Has observado o vivido una respuesta comprensiva o bien gestionada ante un problema de salud mental en tu trabajo actual o anterior?
+84,Describe the circumstances of the supportive or well handled response.,Describe las circunstancias de la respuesta comprensiva o bien gestionada.
+85,"Overall, how well do you think the tech industry supports employees with mental health issues?","En general, ¿qué tan bien crees que el sector tecnológico apoya a los empleados con problemas de salud mental?"
+86,Briefly describe what you think the industry as a whole and/or employers could do to improve mental health support for employees.,Describe brevemente qué podrían hacer el sector en su conjunto o los empleadores para mejorar el apoyo a la salud mental de los empleados.
+87,"If there is anything else you would like to tell us that has not been covered by the survey questions, please use this space to do so.","Si quieres contarnos algo que no se haya preguntado en la encuesta, usa este espacio."
+88,Would you be willing to talk to one of us more extensively about your experiences with mental health issues in the tech industry? (Note that all interview responses would be used _anonymously_ and only with your permission.),¿Estarías dispuesto/a a hablar con nosotros con más detalle sobre tus experiencias con la salud mental en el sector tecnológico?
+89,What is your race?,¿Cuál es tu raza?
+90,Do you think that discussing a physical health issue with your employer would have negative consequences?,¿Crees que hablar de un problema de salud física con tu empleador tendría consecuencias negativas?
+91,Do you feel that your employer takes mental health as seriously as physical health?,¿Sientes que tu empleador se toma la salud mental tan en serio como la salud física?
+92,"If you have a mental health condition, do you feel that it interferes with your work?","Si tienes un problema de salud mental, ¿sientes que interfiere en tu trabajo?"
+93,Do you work remotely (outside of an office) at least 50% of the time?,¿Trabajas en remoto (fuera de la oficina) al menos el 50 % del tiempo?
+94,Do you know the options for mental health care your employer provides?,¿Conoces las opciones de atención a la salud mental que ofrece tu empleador?
+95,Has your employer ever discussed mental health as part of an employee wellness program?,¿Tu empleador ha hablado alguna vez de salud mental dentro de un programa de bienestar para empleados?
+96,Does your employer provide resources to learn more about mental health issues and how to seek help?,¿Tu empleador ofrece recursos para saber más sobre los problemas de salud mental y cómo pedir ayuda?
+97,How easy is it for you to take medical leave for a mental health condition?,¿Es fácil pedir una baja médica por un problema de salud mental?
+98,Do you think that discussing a mental health issue with your employer would have negative consequences?,¿Crees que hablar de un problema de salud mental con tu empleador tendría consecuencias negativas?
+99,Would you be willing to discuss a mental health issue with your coworkers?,¿Estarías dispuesto/a a hablar de un problema de salud mental con tus compañeros?
+100,Would you be willing to discuss a mental health issue with your direct supervisor(s)?,¿Estarías dispuesto/a a hablar de un problema de salud mental con tu supervisor directo?
+101,Would you bring up a physical health issue with a potential employer in an interview?,¿Mencionarías un problema de salud física a un posible empleador en una entrevista?
+102,Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?,"¿Has oído hablar de consecuencias negativas para compañeros con problemas de salud mental en tu trabajo, o las has visto?"
+103,Any additional notes or comments,Notas o comentarios adicionales.
+104,Do you think that discussing a mental health disorder with your employer would have negative consequences?,¿Crees que hablar de un trastorno de salud mental con tu empleador tendría consecuencias negativas?
+105,Have you heard of or observed negative consequences for co-workers who have been open about mental health issues in your workplace?,"¿Has oído hablar de consecuencias negativas para compañeros que han hablado abiertamente de su salud mental en tu trabajo, o las has visto?"
+106,"If you have revealed a mental health issue to a client or business contact, do you believe this has impacted you negatively?","Si has contado un problema de salud mental a un cliente o contacto profesional, ¿crees que te ha afectado negativamente?"
+107,"If you have revealed a mental health issue to a coworker or employee, do you believe this has impacted you negatively?","Si has contado un problema de salud mental a un compañero o empleado, ¿crees que te ha afectado negativamente?"
+108,Do you think that discussing a mental health disorder with previous employers would have negative consequences?,¿Crees que hablar de un trastorno de salud mental con empleadores anteriores habría tenido consecuencias negativas?
+109,Do you think that discussing a physical health issue with previous employers would have negative consequences?,¿Crees que hablar de un problema de salud física con empleadores anteriores habría tenido consecuencias negativas?
+110,Would you have been willing to discuss a mental health issue with your previous co-workers?,¿Habrías estado dispuesto/a a hablar de un problema de salud mental con tus compañeros anteriores?
+111,Did you feel that your previous employers took mental health as seriously as physical health?,¿Sentías que tus empleadores anteriores se tomaban la salud mental tan en serio como la salud física?
+112,Did you hear of or observe negative consequences for co-workers with mental health issues in your previous workplaces?,"¿Oíste hablar de consecuencias negativas para compañeros con problemas de salud mental en trabajos anteriores, o las viste?"
+113,Do you feel that being identified as a person with a mental health issue would hurt your career?,¿Crees que ser identificado/a como persona con un problema de salud mental perjudicaría tu carrera?
+114,Do you think that team members/co-workers would view you more negatively if they knew you suffered from a mental health issue?,¿Crees que tus compañeros te verían de forma más negativa si supieran que tienes un problema de salud mental?
+115,"If yes, what condition(s) have you been diagnosed with?","Si es así, ¿qué trastornos te han diagnosticado?"
+116,"If maybe, what condition(s) do you believe you have?","Si crees que quizá lo tienes, ¿qué trastornos crees que tienes?"
+117,Which of the following best describes your work position?,¿Qué opción describe mejor tu puesto de trabajo?
+118,Do you work remotely?,¿Trabajas en remoto?

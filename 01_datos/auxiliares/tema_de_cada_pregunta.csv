@@ -1,0 +1,52 @@
+pregunta_id,pregunta,bloque
+57,Más cómodo con salud física o mental (compañeros),E. Disposición a hablar
+58,Ha hablado con su empleador,H. Clima y experiencias
+28,Anterior: habría hablado con el supervisor,D. Empresas anteriores
+65,Importancia que da a la salud mental,C. Empresa actual
+81,Cómo reaccionarían los compañeros (0-10),H. Clima y experiencias
+12,Lo diría en una entrevista,E. Disposición a hablar
+85,Nota al sector (1-5),H. Clima y experiencias
+17,Facilidad para pedir la baja,C. Empresa actual
+11,Anonimato protegido,C. Empresa actual
+31,Ver un mal caso le frena,E. Disposición a hablar
+29,Diría la salud física en una entrevista,E. Disposición a hablar
+56,Vio una mala respuesta,H. Clima y experiencias
+33,Trastorno actual,F. Salud mental personal
+32,Trastorno en el pasado,F. Salud mental personal
+49,Interfiere sin tratamiento,G. Impacto en el trabajo
+83,Vio una buena respuesta,H. Clima y experiencias
+genero,Género,A. Perfil personal
+64,Importancia que da a la salud física,C. Empresa actual
+69,Anterior: más cómodo con salud física o mental,D. Empresas anteriores
+27,Anterior: anonimato,D. Empresas anteriores
+30,Lo contaría a amigos y familia,E. Disposición a hablar
+78,Se le identifica abiertamente,H. Clima y experiencias
+16,La empresa ofrece recursos,C. Empresa actual
+89,Raza,A. Perfil personal
+13,Puesto tecnológico,B. Perfil laboral
+tamano,Tamaño de la empresa,B. Perfil laboral
+60,Ha hablado con compañeros,H. Clima y experiencias
+7,Ha buscado tratamiento,F. Salud mental personal
+24,Anterior: conocía las opciones,D. Empresas anteriores
+22,Ha tenido empleos anteriores,B. Perfil laboral
+48,Interfiere con tratamiento,G. Impacto en el trabajo
+62,Un compañero le habló,H. Clima y experiencias
+68,Anterior: empresa tecnológica,D. Empresas anteriores
+anio,Año de la encuesta,A. Perfil personal
+25,Anterior: habló del tema,D. Empresas anteriores
+10,Prestaciones de salud mental,C. Empresa actual
+6,Antecedentes familiares,F. Salud mental personal
+74,Anterior: un compañero le habló,D. Empresas anteriores
+14,Conoce las opciones de atención,C. Empresa actual
+23,Anterior: prestaciones,D. Empresas anteriores
+empresa_tech,Empresa tecnológica,B. Perfil laboral
+zona,Región,A. Perfil personal
+72,Anterior: habló con compañeros,D. Empresas anteriores
+77,Anterior: importancia salud mental,D. Empresas anteriores
+76,Anterior: importancia salud física,D. Empresas anteriores
+26,Anterior: recursos,D. Empresas anteriores
+70,Anterior: habló con su empleador,D. Empresas anteriores
+edad,Edad,A. Perfil personal
+15,La empresa ha hablado del tema,C. Empresa actual
+19,Hablaría con su supervisor,E. Disposición a hablar
+18,Hablaría con compañeros,E. Disposición a hablar
