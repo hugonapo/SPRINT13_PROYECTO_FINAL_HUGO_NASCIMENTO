@@ -1,0 +1,83 @@
+// ======================================================================
+// MEDIDAS DAX · Dashboard "Salud mental en el sector tecnológico"
+// Proyecto final · Hugo Nascimento · IT Academy
+//
+// Todas van en la tabla 'personas_respuestas'.
+// Cómo crearlas: Modelado > Nueva medida > pego el texto > Enter.
+// Los porcentajes se calculan sobre quien respondió cada pregunta
+// (los vacíos no cuentan), igual que en SQL y en Python.
+// Formato: selecciono la medida > Herramientas de medición > Formato: Porcentaje, 1 decimal.
+// ======================================================================
+
+Personas = COUNTROWS ( personas_respuestas )
+
+% Trastorno actual =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[trastorno_actual] = "Sí" ),
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[trastorno_actual] <> "" )
+)
+
+% Hablaría con supervisor =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[comodo_con_supervisor] = "Sí" ),
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[comodo_con_supervisor] <> "" )
+)
+
+% Hablaría con compañeros =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[comodo_con_companeros] = "Sí" ),
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[comodo_con_companeros] <> "" )
+)
+
+% Lo diría en una entrevista =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[lo_diria_en_entrevista] = "Sí" ),
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[lo_diria_en_entrevista] <> "" )
+)
+
+% Ha buscado tratamiento =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[ha_buscado_tratamiento] = "Sí" ),
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[ha_buscado_tratamiento] <> "" )
+)
+
+% Ya lo ha hablado con su empresa =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[ha_hablado_con_empresa] = "Sí" ),
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[ha_hablado_con_empresa] <> "" )
+)
+
+// Solo quien tiene un trastorno: quito el "No aplica"
+% Interfiere a menudo sin tratamiento =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[interfiere_sin_tratamiento] = "A menudo" ),
+    CALCULATE ( COUNTROWS ( personas_respuestas ),
+        personas_respuestas[interfiere_sin_tratamiento] <> "",
+        personas_respuestas[interfiere_sin_tratamiento] <> "No aplica" )
+)
+
+% Interfiere a menudo con tratamiento =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( personas_respuestas ), personas_respuestas[interfiere_con_tratamiento] = "A menudo" ),
+    CALCULATE ( COUNTROWS ( personas_respuestas ),
+        personas_respuestas[interfiere_con_tratamiento] <> "",
+        personas_respuestas[interfiere_con_tratamiento] <> "No aplica" )
+)
+
+Nota media al sector = AVERAGE ( personas_respuestas[nota_sector_1_5] )
+
+Importancia salud mental = AVERAGE ( personas_respuestas[importancia_salud_mental] )
+
+Importancia salud física = AVERAGE ( personas_respuestas[importancia_salud_fisica] )
+
+Brecha física vs mental = [Importancia salud física] - [Importancia salud mental]
+
+// Para el indicador tipo velocímetro de la nota al sector
+Nota máxima = 5
+
+// Texto dinámico para el título de la página 3
+Titulo puerta =
+"Con importancia alta, el "
+    & FORMAT ( CALCULATE ( [% Hablaría con supervisor], personas_respuestas[grupo_importancia] = "Alta (7-10)" ), "0%" )
+    & " hablaría con su supervisor; con importancia baja, el "
+    & FORMAT ( CALCULATE ( [% Hablaría con supervisor], personas_respuestas[grupo_importancia] = "Baja (0-3)" ), "0%" )

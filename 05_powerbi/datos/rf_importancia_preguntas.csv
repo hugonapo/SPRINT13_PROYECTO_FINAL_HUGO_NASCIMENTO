@@ -1,0 +1,56 @@
+﻿modelo,pregunta_id,pregunta,bloque,importancia,desviacion
+19 · Hablaría con su supervisor,57,Más cómodo con salud física o mental (compañeros),E. Disposición a hablar,16.8,0
+19 · Hablaría con su supervisor,81,Cómo reaccionarían los compañeros (0-10),H. Clima y experiencias,15.0,0
+19 · Hablaría con su supervisor,28,Anterior: habría hablado con el supervisor,D. Empresas anteriores,10.9,0
+19 · Hablaría con su supervisor,17,Facilidad para pedir la baja,C. Empresa actual,10.0,0
+19 · Hablaría con su supervisor,65,Importancia que da a la salud mental,C. Empresa actual,8.6,0
+19 · Hablaría con su supervisor,58,Ha hablado con su empleador,H. Clima y experiencias,6.1,0
+19 · Hablaría con su supervisor,85,Nota al sector (1-5),H. Clima y experiencias,5.9,0
+19 · Hablaría con su supervisor,30,Lo contaría a amigos y familia,E. Disposición a hablar,3.9,0
+19 · Hablaría con su supervisor,49,Interfiere sin tratamiento,G. Impacto en el trabajo,2.1,0
+19 · Hablaría con su supervisor,77,Anterior: importancia salud mental,D. Empresas anteriores,2.0,0
+19 · Hablaría con su supervisor,89,Raza,A. Perfil personal,1.8,0
+19 · Hablaría con su supervisor,12,Lo diría en una entrevista,E. Disposición a hablar,1.6,0
+19 · Hablaría con su supervisor,27,Anterior: anonimato,D. Empresas anteriores,1.4,0
+19 · Hablaría con su supervisor,16,La empresa ofrece recursos,C. Empresa actual,1.0,0
+19 · Hablaría con su supervisor,genero,Género,A. Perfil personal,0.9,0
+19 · Hablaría con su supervisor,edad,Edad,A. Perfil personal,0.9,0
+19 · Hablaría con su supervisor,29,Diría la salud física en una entrevista,E. Disposición a hablar,0.7,0
+19 · Hablaría con su supervisor,24,Anterior: conocía las opciones,D. Empresas anteriores,0.6,0
+19 · Hablaría con su supervisor,74,Anterior: un compañero le habló,D. Empresas anteriores,0.6,0
+19 · Hablaría con su supervisor,25,Anterior: habló del tema,D. Empresas anteriores,0.5,0
+19 · Hablaría con su supervisor,72,Anterior: habló con compañeros,D. Empresas anteriores,0.5,0
+19 · Hablaría con su supervisor,56,Vio una mala respuesta,H. Clima y experiencias,0.5,0
+19 · Hablaría con su supervisor,62,Un compañero le habló,H. Clima y experiencias,0.5,0
+19 · Hablaría con su supervisor,06,Antecedentes familiares,Perfil,0.5,0
+19 · Hablaría con su supervisor,anio_encuesta,Anio_encuesta,Perfil,0.5,0
+19 · Hablaría con su supervisor,68,Anterior: empresa tecnológica,D. Empresas anteriores,0.5,0
+19 · Hablaría con su supervisor,26,Anterior: recursos,D. Empresas anteriores,0.5,0
+19 · Hablaría con su supervisor,11,Anonimato protegido,C. Empresa actual,0.5,0
+19 · Hablaría con su supervisor,10,Prestaciones de salud mental,C. Empresa actual,0.5,0
+19 · Hablaría con su supervisor,zona,Región,A. Perfil personal,0.4,0
+19 · Hablaría con su supervisor,60,Ha hablado con compañeros,H. Clima y experiencias,0.4,0
+19 · Hablaría con su supervisor,empresa_tecnologica,Empresa_tecnologica,Perfil,0.4,0
+19 · Hablaría con su supervisor,23,Anterior: prestaciones,D. Empresas anteriores,0.4,0
+19 · Hablaría con su supervisor,32,Trastorno en el pasado,F. Salud mental personal,0.4,0
+19 · Hablaría con su supervisor,31,Ver un mal caso le frena,E. Disposición a hablar,0.3,0
+19 · Hablaría con su supervisor,13,Puesto tecnológico,B. Perfil laboral,0.3,0
+19 · Hablaría con su supervisor,69,Anterior: más cómodo con salud física o mental,D. Empresas anteriores,0.3,0
+19 · Hablaría con su supervisor,22,Ha tenido empleos anteriores,B. Perfil laboral,0.3,0
+19 · Hablaría con su supervisor,76,Anterior: importancia salud física,D. Empresas anteriores,0.2,0
+19 · Hablaría con su supervisor,tamano_empresa,Tamano_empresa,Perfil,0.2,0
+19 · Hablaría con su supervisor,78,Se le identifica abiertamente,H. Clima y experiencias,0.2,0
+19 · Hablaría con su supervisor,15,La empresa ha hablado del tema,C. Empresa actual,0.2,0
+19 · Hablaría con su supervisor,70,Anterior: habló con su empleador,D. Empresas anteriores,0.1,0
+19 · Hablaría con su supervisor,07,Ha buscado tratamiento,Perfil,0.0,0
+19 · Hablaría con su supervisor,14,Conoce las opciones de atención,C. Empresa actual,0.0,0
+19 · Hablaría con su supervisor,64,Importancia que da a la salud física,C. Empresa actual,0.0,0
+19 · Hablaría con su supervisor,33,Trastorno actual,F. Salud mental personal,0.0,0
+19 · Hablaría con su supervisor,83,Vio una buena respuesta,H. Clima y experiencias,0.0,0
+Núcleo de 7 · sin datos de salud,57,Más cómodo con salud física o mental (compañeros),E. Disposición a hablar,25.7,0
+Núcleo de 7 · sin datos de salud,81,Cómo reaccionarían los compañeros (0-10),H. Clima y experiencias,22.9,0
+Núcleo de 7 · sin datos de salud,28,Anterior: habría hablado con el supervisor,D. Empresas anteriores,16.9,0
+Núcleo de 7 · sin datos de salud,17,Facilidad para pedir la baja,C. Empresa actual,14.3,0
+Núcleo de 7 · sin datos de salud,65,Importancia que da a la salud mental,C. Empresa actual,12.6,0
+Núcleo de 7 · sin datos de salud,85,Nota al sector (1-5),H. Clima y experiencias,5.7,0
+Núcleo de 7 · sin datos de salud,11,Anonimato protegido,C. Empresa actual,1.9,0

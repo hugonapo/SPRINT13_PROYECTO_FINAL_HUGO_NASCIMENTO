@@ -1,0 +1,106 @@
+{
+  "name": "Salud mental tech - Hugo",
+  "dataColors": [
+    "#1E6FA8",
+    "#D9573E",
+    "#3E8E5E",
+    "#7E57A8",
+    "#B07D10",
+    "#1F9C9C",
+    "#C9C3B8",
+    "#1F2A37"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F2A37",
+  "tableAccent": "#1E6FA8",
+  "good": "#3E8E5E",
+  "neutral": "#B07D10",
+  "bad": "#D9573E",
+  "minimum": "#DCEAF5",
+  "center": "#7FAED3",
+  "maximum": "#0E3F63",
+  "textClasses": {
+    "callout": {
+      "fontSize": 30,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F2A37"
+    },
+    "title": {
+      "fontSize": 13,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F2A37"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F2A37"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#5A6472"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E3DED5"
+              }
+            },
+            "radius": 10
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "visualHeader": [
+          {
+            "show": true
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F7F4EE"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F7F4EE"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
